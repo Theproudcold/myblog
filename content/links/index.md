@@ -1,6 +1,7 @@
 ---
 title: "友链"
 summary: "一些值得收藏的站点"
+date: 2025-09-14
 draft: false
 ---
 

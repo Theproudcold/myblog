@@ -1,9 +1,10 @@
 ---
-title: "My first post"
-date: 2023-08-14
+title: My first post
+date: 2025-09-14
 draft: false
-summary: "This is my first post on my site"
-tags: ["space"]
+summary: This is my first post on my site
+tags:
+  - space
 ---
 
 ## A sub-title
