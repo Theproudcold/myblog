@@ -13,7 +13,7 @@
 [[main]]
   name = "文章"
   pageRef = "posts"
-  weight = 20
+  weight = 10
 
 [[main]]
   name = "友链"
