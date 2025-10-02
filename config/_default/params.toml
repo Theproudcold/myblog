@@ -15,7 +15,7 @@ enableCodeCopy = false
 
 replyByEmail = false
 
-mainSections = ["文章"]
+mainSections = ["posts"]
 # robots = ""
 
 disableImageOptimization = false
@@ -52,7 +52,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showRecent = true
   showRecentItems = 5
   showMoreLink = false
-  showMoreLinkDest = "/文章/"
+  showMoreLinkDest = "/posts/"
   cardView = false
   cardViewScreenWidth = false
   layoutBackgroundBlur = false # only used when layout equals background

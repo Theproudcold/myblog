@@ -4,5 +4,14 @@ summary: "一些值得收藏的站点"
 draft: false
 ---
 
-- [Hugo 官方文档](https://gohugo.io/) — 静态网站生成器 Hugo 的官方指南。
-- [Blowfish 主题](https://blowfish.page/) — 当前站点主题的文档与示例。
+欢迎来到友链角落，可以按照类别添加你喜欢的网站或节目。
+
+## 博客
+
+- [阮一峰的网络日志](https://www.ruanyifeng.com/blog/) — 前端与互联网技术的优质中文博客。
+- [少数派](https://sspai.com/) — 专注效率工具与数字生活的内容社区。
+
+## 播客
+
+- [声东击西](https://shengdongjixi.fireside.fm/) — 聚焦商业、文化与科技话题的中文播客。
+- [Nice Try](https://nicetry.simplecast.com/) — 探索日常灵感与设计的访谈节目。

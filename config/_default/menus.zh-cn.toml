@@ -12,8 +12,8 @@
 
 [[main]]
   name = "文章"
-  pageRef = "文章"
-  weight = 10
+  pageRef = "posts"
+  weight = 20
 
 [[main]]
   name = "友链"
