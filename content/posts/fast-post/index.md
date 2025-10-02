@@ -5,6 +5,7 @@ draft: false
 summary: This is my first post on my site
 tags:
   - space
+  - 部署
 ---
 
 ## A sub-title
