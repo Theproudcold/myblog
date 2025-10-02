@@ -2,7 +2,7 @@ disabled = false
 languageCode = "zh-cn"
 languageName = "English"
 weight = 1
-title = "Blowfish"
+title = "Hypoy‘blog"
 
 [params]
   displayName = "EN"

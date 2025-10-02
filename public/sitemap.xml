@@ -9,14 +9,24 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/posts/my-first-post/</loc>
+    <loc>//localhost:1313/%E6%96%87%E7%AB%A0/fast-post/</loc>
     <lastmod>2023-08-14T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/posts/</loc>
+    <loc>//localhost:1313/%E6%96%87%E7%AB%A0/</loc>
     <lastmod>2023-08-14T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/about/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/links/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
